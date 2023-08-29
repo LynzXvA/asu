@@ -146,8 +146,8 @@ apt install unzip -y
 apt install curl -y
 
 # BOT INFORMATION
-export CHATID="6389176425"
-export KEY="6230907878:AAExag4j8lRsJbMdAIv6T9STI1g6kp_Vq68"
+export CHATID="5716391265"
+export KEY="6470929086:AAGzbyYIqzmV9sSRSVrdqsYa0sMCG1Vm-s4"
 export TIME="10"
 export URL="https://api.telegram.org/bot$KEY/sendMessage"
 IP=$(curl ifconfig.me);
