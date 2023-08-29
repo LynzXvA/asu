@@ -1472,7 +1472,7 @@ echo ""
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
-echo "funny" >> /root/.profile
+echo "lynz" >> /root/.profile
 rm /root/setup.sh >/dev/null 2>&1
 rm /root/ins-xray.sh >/dev/null 2>&1
 rm /root/insshws.sh >/dev/null 2>&1
