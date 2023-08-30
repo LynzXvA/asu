@@ -38,7 +38,7 @@ export BOLD="\e[1m"
 export WARNING="${RED}\e[5m"
 export UNDERLINE="\e[4m"
 clear
-echo -e "${tyblue} Welcome To FunnyVPN AutoScript......${NC} "
+echo -e "${tyblue} Welcome To LynzVpn AutoScript......${NC} "
 sleep 2
 echo -e "[ ${green}INFO${NC} ] Preparing the install file"
 apt install git curl -y >/dev/null 2>&1
